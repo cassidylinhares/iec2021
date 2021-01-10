@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please clone this repository using ```git clone```.
+If it is not installed please install the following dependencies:
+semantic-ui-react
+barcode-react
+react-redux
+firebase
 
 ## Available Scripts
 
